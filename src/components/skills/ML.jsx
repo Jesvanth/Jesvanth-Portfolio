@@ -3,7 +3,7 @@ import React from 'react'
 const ML = () => {
   return (
     <div className='skills__content'>
-          <h3 className='skills__title'>ML and Deep Learning</h3>
+          <h3 className='skills__title'>AI, ML, DL</h3>
 
           <div className='skills__box'>
               <div className='skills__group'>

@@ -10,7 +10,7 @@ const Qualification = () => {
 
 
   return (
-      <section className='qualification section'>
+    <section id="qualification" className="qualification section">
           <h2 className='section__title'>Qualification</h2>
           <span className='section__subtitle'>My Personal Journey</span>
 
@@ -73,7 +73,7 @@ const Qualification = () => {
                       <div className='qualification__data'>
                           <div>
                               <h3 className='qualification__title'>Founder & Vice President</h3>
-                              <span className='qualification__subtitle'>Artificial Intelligence Club - VIT Chennai</span>
+                              <span className='qualification__subtitle'>Artificial Intelligence Community - VIT Chennai</span>
                               <div className='qualification__calender'>
                                   <i className='uil uil-calendar-alt'> </i>
                                   Feb 2024 - Present
@@ -220,6 +220,7 @@ const Qualification = () => {
               </div>
           </div>
     </section>
+    
   )
 }
 

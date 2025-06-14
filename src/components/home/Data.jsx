@@ -1,16 +1,17 @@
 import React from 'react'
-
+import "./data.css"
 const Data = () => {
   return (
       <div className='home__data'>
             <h1 className='home__title'>Jesvanth S
+              
                 <svg
-                  width="36"
-                  height="36"
+                  width="40"
+                  height="40"
                   viewBox="0 0 48 48"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                  class="home__hand"
+                  className="home__hand"
                 >
                   <path
                     d="M25.4995 32.0305L31.3495 33.1555L36.1495 8.48051C36.4495 6.83051 35.3995 5.18051 33.8245 4.88051C32.1745 4.58051 30.5995 5.70551 30.2995 7.35551L25.4995 32.0305Z"
@@ -56,7 +57,9 @@ const Data = () => {
           </h1>
           
           <h3 className='home__subtitle'>Front-End Developer</h3>
-          <p className='home__description'>I'm a Web Designer based in Chennai, and I'm also a very passionate Frontend Developer, ML and Deep Learning Engineer and a DevOps Enthusiast</p>
+          <p className='home__description'>I'm a Frontend Developer with a passion for intelligent interfaces and data-driven design. Currently pursuing an Integrated M.Tech at VIT Chennai, I specialize in building responsive UIs, ML-powered systems, and real-time automation workflows.
+
+</p>
           <a href='#contact' className='button button--flex'>
               Say Hello
               <svg

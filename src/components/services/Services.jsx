@@ -17,7 +17,7 @@ const Services = () => {
                 
                 <div className='services__content'>
                     <div>
-                        <i className='uil uil-arrow services-icon'></i>
+                        <i class="uil-brackets-curly services__icon"></i>
                         <h3 className='services__title'>Frontend<br />Developer</h3>
                     </div>
 
@@ -29,28 +29,32 @@ const Services = () => {
                         <div className='services__modal-content'>
                             <i className='uil uil-times services__modal-close' onClick={() => toggleTab(0)}></i>
                             <h3 className='services__modal-title'>Frontend Developer</h3>
-                            <p className='services__modal-description'>Service with 2 years of experience.
-                                Providing quality work to clients and companies.</p>
+                            <p className='services__modal-description'>I am a final-year Computer Science student with 2 years of frontend development experience through academic projects, internships, and freelance work. 
+                                I specialize in building responsive and scalable web applications tailored for performance and user experience.</p>
                             
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                    I develop the Responsive Websites for all devices.
+                                    Built responsive websites optimized for all device types and screen sizes
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        Frontend development for websites using variety of Frameworks.
-                                    </p>
+                                        Proficient in HTML, CSS, JavaScript, and modern frameworks like React.js                                    </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        My Websites are minimal, modern and user-friendly.
+                                        Delivered clean, modular, and maintainable code using best frontend practices                                    </p>
+                                </li>
+                                <li className='services__modal-service'>
+                                    <i className='uil uil-check-circle services__modal-icon'></i>
+                                    <p className='services__modal-info'>
+Designed and deployed modern, minimal, and user-focused UI components
                                     </p>
                                 </li>
 
@@ -61,7 +65,7 @@ const Services = () => {
 
                 <div className='services__content'>
                     <div>
-                        <i className='uil uil-web-grid services-icon'></i>
+                        <i className='class=uil uil-web-grid services__icon'></i>
                         <h3 className='services__title'>UI/UX<br />Designer</h3>
                     </div>
 
@@ -73,29 +77,33 @@ const Services = () => {
                         <div className='services__modal-content'>
                             <i className='uil uil-times services__modal-close' onClick={() => toggleTab(0)}></i>
                             <h3 className='services__modal-title'>UI/UX Designer</h3>
-                            <p className='services__modal-description'>Service with 2 years of experience.
-                                Providing quality work to clients and companies.</p>
+                            <p className='services__modal-description'>Passionate about designing user-centered digital interfaces with a balance of functionality and aesthetics. 
+                                I apply design thinking to craft intuitive and accessible web and mobile experiences that solve real-world problems.</p>
                             
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                    I develop the User Interface.
-                                         
+Design and prototype wireframes, mockups, and user flows using tools like Figma and Adobe XD                                         
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I create Mockups and fully functional Prototypes.
-                                    </p>
+Focus on responsive, clean, and consistent visual design tailored for the target audience                                    </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I create ux element interactions.  
+Conduct usability testing and iterative feedback loops to enhance user experience                                   </p>
+                                </li>
+
+                                <li className='services__modal-service'>
+                                    <i className='uil uil-check-circle services__modal-icon'></i>
+                                    <p className='services__modal-info'>
+                                        Collaborate with frontend developers to ensure seamless design-to-code handoffs  
                                     </p>
                                 </li>
 
@@ -106,7 +114,7 @@ const Services = () => {
 
                 <div className='services__content'>
                     <div>
-                        <i className='uil uil-web-grid services-icon'></i>
+                        <i className='class=uil uil-robot services__icon'></i>
                         <h3 className='services__title'>ML/DL<br />Engineer</h3>
                     </div>
 
@@ -118,29 +126,35 @@ const Services = () => {
                         <div className='services__modal-content'>
                             <i className='uil uil-times services__modal-close' onClick={() => toggleTab(0)}></i>
                             <h3 className='services__modal-title'>ML/DL Engineer</h3>
-                            <p className='services__modal-description'>Service with 2 years of experience.
-                                Providing quality work to clients and companies.</p>
+                            <p className='services__modal-description'>I am actively working on Machine Learning and Deep Learning projects that involve data preprocessing, model training, and deployment. 
+                                My focus is on building intelligent systems that extract insights or automate tasks using Python and AI frameworks.</p>
                             
                             <ul className='services__modal-services grid'>
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                    I provide the apt pre-trained ML model for your problems.
-                                         
+Experienced in using Python, scikit-learn, TensorFlow, Keras, and PyTorch                                         
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I provide Image Classification models and other DL models too.
+                                        Worked on real-world datasets for classification, regression, and NLP tasks
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I give the best solution to your problems with highest accuracy possible.  
+                                        Built and evaluated deep learning models like CNNs and LSTMs for domain-specific problems
+                                    </p>
+                                </li>
+
+                                <li className='services__modal-service'>
+                                    <i className='uil uil-check-circle services__modal-icon'></i>
+                                    <p className='services__modal-info'>
+                                        Strong understanding of data pipelines, model tuning, and performance metrics  
                                     </p>
                                 </li>
 

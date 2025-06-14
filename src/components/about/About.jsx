@@ -1,7 +1,6 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../assets/about(1).png";
-import CV from "../../assets/Kishore-CV.pdf";
 import Info from "./Info"
 
 const About = () => {
@@ -22,7 +21,14 @@ const About = () => {
 
 </p>
                   
-                  <a download="" href={ CV } className='button button--flex'>Download CV</a>
+<a
+  href="https://drive.google.com/drive/folders/14EdjZTgop4OAf8RJ0yV_5YDcjhbuvDq9"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="button button--flex"
+>
+  View CV
+</a>
               </div>
 
         </div>

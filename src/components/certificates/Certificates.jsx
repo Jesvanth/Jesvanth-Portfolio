@@ -1,43 +1,39 @@
 import React from 'react'
 import "./certificates.css"
 
-import AI from "../../assets/certificates/AI.jpg"
-import AdvJS from "../../assets/certificates/AdvJS.jpg"
-import Azure from "../../assets/certificates/Azure.jpg"
+
 import Bigdata from "../../assets/certificates/Bigdata.png"
-import Blockchain from "../../assets/certificates/Blockchain.jpg"
-import Business from "../../assets/certificates/Business.png"
-import C from "../../assets/certificates/C.jpeg"
-import CSS from "../../assets/certificates/CSS.jpg"
-import Dataxact from "../../assets/certificates/Dataxact.png"
+import computernetwork from "../../assets/certificates/computernetwork.png"
+import softskills from "../../assets/certificates/softskill.png"
+import introai from "../../assets/certificates/introai.png"
+import masterds from "../../assets/certificates/masterds.png"
+import supplychain from "../../assets/certificates/supplychain.png"
+import scplan from "../../assets/certificates/scplan.png"
+import collatralmgmt from "../../assets/certificates/collatralmgmt.png"
+import corporateaction from "../../assets/certificates/corporateaction.png"
+import swiftmsg from "../../assets/certificates/swiftmsg.png"
+import deeplearning from "../../assets/certificates/Deeplearning.png"
+import datasciencepython from "../../assets/certificates/datasciencepython.png"
+import mlandaiproj from "../../assets/certificates/Mlandaiproj.png"
+import dsm from "../../assets/certificates/fundamentalofdsm.png"
+import iot from "../../assets/certificates/iot.png"
+import googlewebdesign from "../../assets/certificates/googlewebdesign.png"
+import agilects from "../../assets/certificates/agilects.png"
+import cybersec from "../../assets/certificates/introcybersec.png"
+import accentureai from "../../assets/certificates/accentureai.png"
+import griffthuniv from "../../assets/certificates/griffthuniv.png"
+import ualai from "../../assets/certificates/ualai.png"
+import leedsuniv from "../../assets/certificates/leedsuniv.png"
 import tcscarrearedge from "../../assets/certificates/tcscarrearedge.png"
-import DeepLearning from "../../assets/certificates/DeepLearning.jpg"
-import Devtools from "../../assets/certificates/Devtools.jpg"
-import Docker from "../../assets/certificates/Docker.jpg"
-import DSA from "../../assets/certificates/DSA.jpg"
-import EthicalHacking from "../../assets/certificates/EthicalHacking.jpg"
-import Git from "../../assets/certificates/Git.jpg"
-import GuviPython from "../../assets/certificates/GuviPython.png"
-import Hacklah from "../../assets/certificates/Hacklah.png"
-import HTMLCSS from "../../assets/certificates/HTMLCSS.jpg"
-import HTML5CSS3 from "../../assets/certificates/HTML5CSS3.jpg"
-import Internet from "../../assets/certificates/Internet.jpg"
-import JSBasics from "../../assets/certificates/JSBasics.jpg"
-import ML from "../../assets/certificates/ML.jpg"
-import Network from "../../assets/certificates/Network.png"
-import NPM from "../../assets/certificates/NPM.jpg"
-import Python from "../../assets/certificates/Python.jpg"
-import PythonBasic from "../../assets/certificates/PythonBasic.jpg"
-import PythonFundamentals from "../../assets/certificates/PythonFundamentals.png"
-import PythonML from "../../assets/certificates/PythonML.png"
-import WebDesign from "../../assets/certificates/WebDesign.jpg"
-import WebDev from "../../assets/certificates/WebDev.jpg"
-import YAML from "../../assets/certificates/YAML.jpg"
+
+
+
 
 
 const Certificates = () => {
   return (
-    <section className='certificates section'>
+
+    <section id="certificates" className='certificates section'>
         <h2 className='section__title'>Certifications</h2>
         <span className='section__subtitle'>What I've done</span> 
 
@@ -49,60 +45,132 @@ const Certificates = () => {
               </div>
 
               <div className='cert__box'>
-                  <img src={Bigdata} alt='Azure' className='cert__img' />
-                  <h3 className='cert__name'>Microsoft Azure Fundamentals</h3>
-                  <p className='cert__platform'>Microsoft Learn</p>
+                  <img src={softskills} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'>Computer Networks</h3>
+                  <p className='cert__platform'>TCS iON</p>
+              </div>
+
+                    <div className='cert__box'>
+                  <img src={masterds} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'>Master Data Management for Beginners</h3>
+                  <p className='cert__platform'>TCS iON</p>
+              </div>
+
+                                  <div className='cert__box'>
+                  <img src={supplychain} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'>Basics of Operational Procurement in Supply Chain Management</h3>
+                  <p className='cert__platform'>TCS iON</p>
+              </div>
+
+                                  <div className='cert__box'>
+                  <img src={scplan} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'>Supply Chain Planning and Scheduling</h3>
+                  <p className='cert__platform'>TCS iON</p>
+              </div>
+
+                                                <div className='cert__box'>
+                  <img src={collatralmgmt} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'>Understanding Collateral Management</h3>
+                  <p className='cert__platform'>TCS iON</p>
+              </div>
+
+                                                              <div className='cert__box'>
+                  <img src={corporateaction} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'>Corporate Actions</h3>
+                  <p className='cert__platform'>TCS iON</p>
+              </div>
+
+                                                                            <div className='cert__box'>
+                  <img src={swiftmsg} alt='Azure' className='cert__img' />
+                  <h3 className='cert__name'> Basics of SWIFT Messaging</h3>
+                  <p className='cert__platform'>TCS iON</p>
               </div>
 
               <div className='cert__box'>
-                  <img src={ML} alt='ML' className='cert__img' />
-                  <h3 className='cert__name'>A-Z Machine Learning</h3>
-                  <p className='cert__platform'>SuperDataScience Team - Udemy</p>
+                  <img src={computernetwork} alt='ML' className='cert__img' />
+                  <h3 className='cert__name'>Computer Networks</h3>
+                  <p className='cert__platform'>TCS iON</p>
               </div>
 
               <div className='cert__box'>
-                  <img src={DeepLearning} alt='DeepLearning' className='cert__img' />
-                  <h3 className='cert__name'>A-Z Deep Learning</h3>
-                  <p className='cert__platform'>SuperDataScience Team - Udemy</p>
+                  <img src={introai} alt='DeepLearning' className='cert__img' />
+                  <h3 className='cert__name'>Introduction to AI</h3>
+                  <p className='cert__platform'>TCS iON</p>
               </div>
               
               <div className='cert__box'>
-                  <img src={WebDev} alt='WebDev' className='cert__img' />
-                  <h3 className='cert__name'>Complete Web Development Bootcamp</h3>
-                  <p className='cert__platform'>Angela Yu - Udemy</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={WebDesign} alt='WebDesign' className='cert__img' />
-                  <h3 className='cert__name'>Complete Web & Mobile Designer</h3>
-                  <p className='cert__platform'>Zero to Mastery - Udemy</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={EthicalHacking} alt='EthicalHacking' className='cert__img' />
-                  <h3 className='cert__name'>Complete Ethical Hacking Bootcamp</h3>
-                  <p className='cert__platform'>SuperDataScience Team - Udemy</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={DSA} alt='DSA' className='cert__img' />
-                  <h3 className='cert__name'>Master the Coding Interview : DSA</h3>
-                  <p className='cert__platform'>Zero to Mastery - Udemy</p>
-              </div>
-
-
-              <div className='cert__box'>
-                  <img src={GuviPython} alt='GuviPython' className='cert__img' />
-                  <h3 className='cert__name guvi'>Python</h3>
-                  <p className='cert__platform'>GUVI</p>
-              </div>
-
-              {/* <div className='cert__box'>
-                  <img src={Python} alt='Python' className='cert__img' />
-                  <h3 className='cert__name'>Python Programming for Beginners</h3>
+                  <img src={deeplearning} alt='WebDev' className='cert__img' />
+                  <h3 className='cert__name'>Deep Learning Foundation</h3>
                   <p className='cert__platform'>Udemy</p>
-              </div> */}
+              </div>
+
+              <div className='cert__box'>
+                  <img src={datasciencepython} alt='WebDesign' className='cert__img' />
+                  <h3 className='cert__name'>Data Science with Python Certification Training with Project</h3>
+                  <p className='cert__platform'>Udemy</p>
+              </div>
+
+              <div className='cert__box'>
+                  <img src={mlandaiproj} alt='EthicalHacking' className='cert__img' />
+                  <h3 className='cert__name'>Machine Learning & AI Hands on Project </h3>
+                  <p className='cert__platform'>Udemy</p>
+              </div>
+
+              <div className='cert__box'>
+                  <img src={dsm} alt='DSA' className='cert__img' />
+                  <h3 className='cert__name'>Fundamentals of Digital Marketing</h3>
+                  <p className='cert__platform'>Google Digital Garage</p>
+              </div>
+
+              <div className='cert__box'>
+                  <img src={googlewebdesign} alt='GuviPython' className='cert__img' />
+                  <h3 className='cert__name guvi'>Google Web Designer Basics</h3>
+                  <p className='cert__platform'>Google Skillshop</p>
+              </div>
+
+
+              <div className='cert__box'>
+                  <img src={iot} alt='GuviPython' className='cert__img' />
+                  <h3 className='cert__name guvi'>Introduction to IoT</h3>
+                  <p className='cert__platform'>Cisco Networking Academy</p>
+              </div>
+
+              {<div className='cert__box'>
+                  <img src={agilects} alt='Python' className='cert__img' />
+                  <h3 className='cert__name'>Agile Methodology</h3>
+                  <p className='cert__platform'>Cognizant</p>
+              </div>}
+
+                            {<div className='cert__box'>
+                  <img src={cybersec} alt='Python' className='cert__img' />
+                  <h3 className='cert__name'>Introduction to Cybersecurity</h3>
+                  <p className='cert__platform'>Cisco Networking Academy</p>
+              </div>}
+
+                {<div className='cert__box'>
+                  <img src={accentureai} alt='Python' className='cert__img' />
+                  <h3 className='cert__name'>Digital Skills: Artifical Intelligence</h3>
+                  <p className='cert__platform'>Accenture</p>
+              </div>}
+
+                {<div className='cert__box'>
+                  <img src={griffthuniv} alt='Python' className='cert__img' />
+                  <h3 className='cert__name'>Big Data Analytics</h3>
+                  <p className='cert__platform'>Griffith University</p>
+              </div>}
               
+                {<div className='cert__box'>
+                  <img src={ualai} alt='Python' className='cert__img' />
+                  <h3 className='cert__name'>Introduction to Creative AI</h3>
+                  <p className='cert__platform'>University of Arts London</p>
+              </div>}
+
+                {<div className='cert__box'>
+                  <img src={leedsuniv} alt='Python' className='cert__img' />
+                  <h3 className='cert__name'>Collaborative Working</h3>
+                  <p className='cert__platform'>University of Leeds</p>
+              </div>}
+
               {/* <div className='cert__box'>
                   <img src={PythonBasic} alt='PythonBasic' className='cert__img' />
                   <h3 className='cert__name'>Python Basic</h3>
@@ -114,18 +182,6 @@ const Certificates = () => {
                   <h3 className='cert__name'>CSS</h3>
                   <p className='cert__platform'>HackerRank</p>
               </div> */}
-
-              <div className='cert__box'>
-                  <img src={Dataxact} alt='Dataxact' className='cert__img' />
-                  <h3 className='cert__name'>Dataxact - Datathon</h3>
-                  <p className='cert__platform'>Data Science Club - VIT Chennai</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={Hacklah} alt='Hacklah' className='cert__img' />
-                  <h3 className='cert__name'>Hacklah - Hackathon</h3>
-                  <p className='cert__platform'>Hacklah</p>
-              </div>
 
               {/* <div className='cert__box'>
                   <img src={Business} alt='Business' className='cert__img' />
@@ -139,11 +195,6 @@ const Certificates = () => {
                   <p className='cert__platform'>VITFAM - VIT Chennai</p>
               </div> */}
 
-              <div className='cert__box'>
-                  <img src={PythonML} alt='PythonML' className='cert__img' />
-                  <h3 className='cert__name'>Python for Machine Learning</h3>
-                  <p className='cert__platform'>Great Learning</p>
-              </div>
 
               {/* <div className='cert__box'>
                   <img src={PythonFundamentals} alt='PythonFundamentals' className='cert__img' />
@@ -162,30 +213,6 @@ const Certificates = () => {
                   <h3 className='cert__name'>Blockchain Developer Guide - Webinar</h3>
                   <p className='cert__platform'>CodeDamn</p>
               </div> */}
-
-              <div className='cert__box'>
-                  <img src={HTMLCSS} alt='HTMLCSS' className='cert__img' />
-                  <h3 className='cert__name'>Learn HTML and CSS</h3>
-                  <p className='cert__platform'>CodeDamn</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={HTML5CSS3} alt='HTML5CSS3' className='cert__img' />
-                  <h3 className='cert__name'>Learn Advanced HTML and CSS Concepts</h3>
-                  <p className='cert__platform'>CodeDamn</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={JSBasics} alt='JSBasics' className='cert__img' />
-                  <h3 className='cert__name'>Learn JavaScript Basics</h3>
-                  <p className='cert__platform'>CodeDamn</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={AdvJS} alt='AdvJS' className='cert__img' />
-                  <h3 className='cert__name'>Advanced Practical JavaScript</h3>
-                  <p className='cert__platform'>CodeDamn</p>
-              </div>
 
               {/* <div className='cert__box'>
                   <img src={Devtools} alt='Devtools' className='cert__img' />
@@ -210,18 +237,6 @@ const Certificates = () => {
                   <h3 className='cert__name'>Learn NPM - Node Package Manager Complete Course</h3>
                   <p className='cert__platform'>CodeDamn</p>
               </div> */}
-
-              <div className='cert__box'>
-                  <img src={YAML} alt='YAML' className='cert__img' />
-                  <h3 className='cert__name'>YAML Fundamentals for DevOps, Cloud and IaC Engineers</h3>
-                  <p className='cert__platform'>CodeDamn</p>
-              </div>
-
-              <div className='cert__box'>
-                  <img src={Docker} alt='Docker' className='cert__img' />
-                  <h3 className='cert__name'>Docker : Containerization for Modern Development</h3>
-                  <p className='cert__platform'>CodeDamn</p>
-              </div>
 
         </div>  
 
