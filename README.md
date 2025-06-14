@@ -8,21 +8,25 @@
 
 ## Welcome to My Portfolio!
 
-🚀 Explore my portfolio: [Kishore P's Portfolio](https://kishore-p-portfolio.vercel.app/)
+Explore my portfolio: [Jesvanth's Portfolio](https://jesvanth-portfolio.vercel.app/)
 
 ## About Me
 
-I'm Kishore, a creative software developer with a strong foundation in React, JavaScript, HTML, and CSS. My goal is to leverage my skills to create meaningful and innovative web applications.
-I'm also Web Designer based in Chennai, and a passionate ML, Deep Learning and DevOps Enthusiast. 
-I have also recently achieved my Alpha Microsoft Learn Student Ambassador Milestone.
+Hi, I’m Jesvanth — a pre-final year student at VIT Chennai pursuing an Integrated M.Tech in Computer Science & Engineering (Business Analytics).
+
+- I’m passionate about AI, ML, and automation systems that create real-world impact.
+- I've interned at ISRO, NIT Trichy, and Corezi Tech, working on projects like voice biometrics, deep learning for crop classification, and economic sustainability prediction.
+- My work has been published in Springer and IEEE, and I hold a patent for a wearable device to reduce digital eye strain.
+- I’ve also led technical projects in voice style transfer, smart energy systems, and network security.
+
+I’m currently exploring opportunities in AI, machine learning, and intelligent automation. Let’s connect!
 
 ## Skills
 
 - React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+- HTML
+- CSS
+- JavaScript
 - Git & Github
 - Tensorflow
 - Scikit Learn
@@ -30,7 +34,7 @@ I have also recently achieved my Alpha Microsoft Learn Student Ambassador Milest
 - Canva
 - Adobe Suite
 - Python
-- C & C++
+- C
 - Java
 - Assembly Language
 - Google Cloud
@@ -44,18 +48,17 @@ I have also recently achieved my Alpha Microsoft Learn Student Ambassador Milest
 
 ## Qualifications
 
-- Currently pursuing my Bachelor's Degree in Computer Science with specialization in AI and Robotics at VIT Chennai University
-- Graduated my High School from The Optimus Public School
+- Currently pursuing my Integrated Master Degree in Computer Science with specialization in Business Analytics at VIT Chennai University
 
 ## Experience
 
-I have hands-on experience in developing user-friendly and responsive web applications using the latest technologies. I am also the UI/UX Lead of a student startup called Softzin. I'm also part of various clubs and chapters in my college.
+Aspiring Software Development Engineer with a strong coding foundation and problem-solving skills. My hands-on experience with projects has honed my problem-solving abilities and collaborative mindset. Thriving in dynamic environments, I am motivated to continuously learn and adapt to emerging technologies while delivering high-quality code.
 
 ## Contact Me
 
-- 📧 Email: kidkrrish3@gmail.com
-- 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/kishore-p-592962252/)
-- 🅾 Instagram: [Follow me on Instagram](https://www.instagram.com/kish._.re/)
-- 🌐 Portfolio: [kishore-p-portfolio.vercel.app](https://kishore-p-portfolio.vercel.app/)
+- 📧 Email: jesvanth@gmail.com
+- 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/jesvanth/)
+- 🅾 Instagram: [Follow me on Instagram](https://www.instagram.com/jesvanthhh/)
+- 🌐 Portfolio: [jesvanth-portfolio.vercel.app](https://jesvanth-portfolio.vercel.app/)
 
-Feel free to reach out and connect! Let's build something amazing together. 🚀
+Feel free to reach out and connect! Let's build something amazing together.
