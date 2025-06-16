@@ -11,6 +11,7 @@ import Contacts from './components/contacts/Contacts';
 import Footer from './components/footer/Footer';
 import Scrollup from './components/scrollup/Scrollup';
 import Portfolio from './components/Portfolio/Portfolio';
+import { Analytics } from '@vercel/analytics/react';
 
 
 function App() {
