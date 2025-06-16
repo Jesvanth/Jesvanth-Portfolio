@@ -33,6 +33,7 @@ function App() {
       </main>
         <Footer />
         <Scrollup />
+        <Analytics />
     </div>
   );
 }
