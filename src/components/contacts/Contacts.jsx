@@ -81,7 +81,7 @@ const Contacts = () => {
         <div className='contact__content'>
           <h3 className='contact__title'>Write me your thoughts</h3>
 
-          <form action="https://formsubmit.io/send/jesvanth@gmail.com" method="POST" Add commentMore actions
+          <form action="https://formsubmit.co/send/jesvanth@gmail.com" method="POST" Add commentMore actions
           className='contact__form'>
             <div className='contact__form-div'>
               <label className='contact__form-tag'>Name</label>
