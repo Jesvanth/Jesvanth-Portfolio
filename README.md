@@ -1,9 +1,9 @@
 # Kishore P's Portfolio
 
-![React](https://img.shields.io/badge/React-17.0.2-blue)
+![React](https://img.shields.io/badge/React-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blueviolet)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-brightgreen)
 
 ## Welcome to My Portfolio!
