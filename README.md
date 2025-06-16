@@ -1,4 +1,4 @@
-# Kishore P's Portfolio
+# Jesvanth's Portfolio
 
 ![React](https://img.shields.io/badge/React-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
