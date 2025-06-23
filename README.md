@@ -50,10 +50,6 @@ I’m currently exploring opportunities in AI, machine learning, and intelligent
 
 - Currently pursuing my Integrated Master Degree in Computer Science with specialization in Business Analytics at VIT Chennai University
 
-## Experience
-
-Aspiring Software Development Engineer with a strong coding foundation and problem-solving skills. My hands-on experience with projects has honed my problem-solving abilities and collaborative mindset. Thriving in dynamic environments, I am motivated to continuously learn and adapt to emerging technologies while delivering high-quality code.
-
 ## Contact Me
 
 - 📧 Email: jesvanth@gmail.com
