@@ -1,6 +1,15 @@
 import React, { useState } from 'react';
 import './Portfolio.css';
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X7MLMS89CE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X7MLMS89CE');
+</script>
 
 import cgpa from "../../assets/projectspic/cgpa.png"
 import ldr from "../../assets/projectspic/ldr.png"
